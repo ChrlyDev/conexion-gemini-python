@@ -12,7 +12,7 @@ Ejemplo en Python para conectarse a la API de Google Gemini usando el SDK oficia
 1. Clona el repositorio y entra en su carpeta:
 
    ```bash
-   git clone https://github.com/TU_USUARIO/conexion-gemini-python.git
+   git clone https://github.com/ChrlyDev/conexion-gemini-python.git
    cd conexion-gemini-python
    ```
 
@@ -85,7 +85,7 @@ git init
 git add .
 git commit -m "Agrega conexion inicial con la API de Gemini"
 git branch -M main
-git remote add origin https://github.com/TU_USUARIO/conexion-gemini-python.git
+git remote add origin https://github.com/ChrlyDev/conexion-gemini-python.git
 git push -u origin main
 ```
 
