@@ -94,3 +94,8 @@ Crea antes un repositorio vacio con el nombre `conexion-gemini-python` en tu cue
 ## Seguridad
 
 La clave de API es una credencial privada. Si una clave real se compartio o se incluyo en un repositorio, revocala desde Google AI Studio y genera una nueva antes de continuar.
+
+## Imagen de evidencia ejecución del Script
+
+<img width="1419" height="192" alt="image" src="https://github.com/user-attachments/assets/73a8c02b-5752-4177-8bb2-dd19fa226d89" />
+
